@@ -14,13 +14,13 @@ Leximi i artikujve & shikimi i tutorialve ndihmojnë, por ç'është më mirë s
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/fork.png" alt="fork this repository" />
 
-Nëse nuk ke Git të instaluar në pajisjen tënde, [instaloje]( https://help.github.com/articles/set-up-git/).
+Nëse nuk ke Git të instaluar në pajisjen tënde,  [instaloje]( https://help.github.com/articles/set-up-git/).
 
 ## Bëje fork këtë repozitor
 
 Për të bërë fork këtë repozitor kliko butonin fork në majë të kësaj faqeje. Kjo do të krijojë një kopje të ketij repozitori në llogarinë tënde.
 
-## Klonoje këtë repozitor
+## Klonoje këtë  repozitor
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/clone.png" alt="clone this repository" />
 
@@ -31,7 +31,7 @@ Hap terminalin dhe bëje run git komandën në vazhdim:
 ```
 git clone "url që sapo ke kopjuar"
 ```
-ku "url që sapo ke kopjuar" (pa thonjëzat) është url e këtij repozitori (repozitori që bëre fork). Shiko hapat e mëparshëm për të marrë url-në.
+ku "url që sapo ke kopjuar"  (pa thonjëzat) është url e këtij repozitori (repozitori që bëre fork). Shiko hapat e mëparshëm për të marrë url-në.
 
 <img align="right" width="300" src="https://firstcontributions.github.io/assets/Readme/copy-to-clipboard.png" alt="copy URL to clipboard" />
 
